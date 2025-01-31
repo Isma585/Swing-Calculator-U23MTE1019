@@ -1,4 +1,4 @@
 Name:Ismail Ayodele Ridwan 
 Matric: U23MTE1019 
-Department:Mechatronic eng
+Department:Mechatronics 
 Github: Isma585 
